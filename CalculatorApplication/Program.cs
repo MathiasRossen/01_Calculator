@@ -17,6 +17,7 @@ namespace CalculatorApplication
 
             do
             {
+                reset = false;
                 Console.Clear();
 
                 if (start)
